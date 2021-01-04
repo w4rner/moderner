@@ -12,20 +12,20 @@ Copy and paste your html code into the corresponding .mailsignature dummy file (
 Lock file again after saving.
 
 # How to Customize
-Search TODO in the .html file for what you need to replace with your own data:
-## Image
+Find TODO in the .html file, for what you need to replace with your own data. Here's some ideas:
+## Cloud-stored Images
 TODO.png link to an image file hosted on the cloud.
-### Link
-https://TODO
+### Image
+Set image px to 2x (or 3x if you wanna take risk of larger) code dimensions.
+[Change dpi to 72](https://convert.town/image-dpi)
+Can't style img "text-align:<>". Must nest in a div tag with that style.
+
+### Creating correct links from cloud services
 #### Dropbox
 Copy Dropbox Link. Replace ?dl=0 with ?raw=1 (?dl=1 also seems to work)
 You can't use the Dropbox link of an alias file.
 #### Google Drive
 Image links from  'Get Shareable Link'. Set Anyone with the link can view. Replace 'open' with 'uc' before '?id'.
-### Image
-Set image px to 2x (or 3x if you wanna take risk of larger) code dimensions.
-[Change dpi to 72](https://convert.town/image-dpi)
-Can't style img "text-align:<>". Must nest in a div tag with that style.
 
 ## Other Finds to customize:
 ### Color
