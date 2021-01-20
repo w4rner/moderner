@@ -1,5 +1,6 @@
 # HTML Email Signature Template
  Photo, Name, Social Icons, 2 lines of text
+ 
  Looks something like:
  
  ![ex](https://www.dropbox.com/s/paj3uvpeybjyqk3/example.png?raw=1)
