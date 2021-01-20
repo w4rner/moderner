@@ -1,4 +1,4 @@
-# HTML-Signature
+# HTML Email Signature Template
  Photo, Name, Social Icons, 2 lines of text
  
 # How to Implement
