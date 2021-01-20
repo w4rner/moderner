@@ -2,6 +2,7 @@
  Photo, Name, Social Icons, 2 lines of text
  
 Can look something like:
+
 ![Cerulean example](https://www.dropbox.com/s/k0smlmilya2vrts/Cerulean-ex.png?raw=1)
  
 # How to Implement
@@ -38,6 +39,7 @@ font-size:XXpx
 font-family:Arial, sans-serif
 
 by
+
  ![w4rner](https://www.dropbox.com/s/paj3uvpeybjyqk3/example.png?raw=1)
 
 
