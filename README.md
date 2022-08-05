@@ -1,3 +1,7 @@
+# Moderner website tools
+
+I'm collecting and publicly sharing code templates which I find useful for enhancing web tools like website builders.
+
 # 1. ExternalLinks-NewTab
  Two codeblocks to inject into HTML to make all external links on your website open in new tab. Can potentially help reduce bounce rate from your website.
 
