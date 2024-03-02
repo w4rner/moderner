@@ -2,6 +2,19 @@
 
 I'm collecting and publicly sharing code templates which I find useful for enhancing web tools like website builders, which I use for my [Moderner websites](https://Mode.rner.me)
 
+# 0. AI bots to block in robots.txt
+Before you publish any HTML, make sure you publish my robots.txt file to stop (disallow) dozens of bots stealing your code.
+
+## Where to add
+### GitHub Pages
+copy the file named robots.txt in the branch you're publishing to Pages (only works if using custom domain, not .github.io subdomain). 
+Fork this repo to start your site and you'll have it ready!
+
+### Website builders 
+Copy & paste the text provided eg:
+Webflow: Site Settings > SEO > Indexing
+Carrd: Manage this site > Files
+
 # 1. ExternalLinks-NewTab
  Two codeblocks to inject into HTML to make all external links on your website open in new tab. Can potentially help reduce bounce rate from your website.
 
