@@ -11,9 +11,9 @@ copy the file named robots.txt in the branch you're publishing to Pages (only wo
 Fork this repo to start your site and you'll have it ready!
 
 ### Website builders 
-Copy & paste the text provided eg:
-Webflow: Site Settings > SEO > Indexing
-Carrd: Manage this site > Files
+Copy & paste the text provided eg:  
+Webflow: Site Settings > SEO > Indexing  
+Carrd: Manage this site > Files  
 
 # 1. ExternalLinks-NewTab
  Two codeblocks to inject into HTML to make all external links on your website open in new tab. Can potentially help reduce bounce rate from your website.
