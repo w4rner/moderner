@@ -3,7 +3,8 @@
 I'm collecting and publicly sharing code templates which I find useful for enhancing web tools like website builders, which I use for my [Moderner websites](https://Mode.rner.me)
 
 # 0. AI bots to block in robots.txt
-Before you publish any HTML, make sure you publish my robots.txt file to stop (disallow) dozens of bots stealing your code.
+Before you publish any HTML, make sure you publish my robots.txt file to stop (disallow) dozens of bots stealing your code.  
+Playing safe fully blocking China & Russia’s big crawlers, but feel free to remove any you trust (Applebot perhaps) or any you feel decrease clickthroughs with worse og(Twitterbot perhaps)
 
 ## Where to add
 ### GitHub Pages
