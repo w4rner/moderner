@@ -23,6 +23,7 @@ Carrd: Manage this site > Files
 fully shutdown: <meta name="robots" content="noindex, noimageindex, nofollow" />
 (only goog respect noimageindex)
 https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives
+This only really stops you appearing on search, and doesn't really affect any AI ingesting.
 
 # 1. ExternalLinks-NewTab
  Two codeblocks to inject into HTML to make all external links on your website open in new tab. Can potentially help reduce bounce rate from your website.
