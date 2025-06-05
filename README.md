@@ -20,7 +20,7 @@ Webflow: Site Settings > SEO > Indexing
 Carrd: Manage this site > Files  
 
 ## Alternative approach: meta tags
-fully shutdown: <meta name="robots" content="noindex, noimageindex, nofollow" />
+fully shutdown: `<meta name="robots" content="noindex, noimageindex, nofollow" />`
 (only goog respect noimageindex)
 https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives
 This only really stops you appearing on search, and doesn't really affect any AI ingesting.
