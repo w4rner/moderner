@@ -1,0 +1,1 @@
+cat file | perl -ne 'while(s/(@[a-z0-9_]+)//gi) { print ,n}'
