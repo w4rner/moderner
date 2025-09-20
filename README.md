@@ -94,7 +94,7 @@ Can't style img "text-align:<>". Must nest in a div tag with that style.
 Copy Dropbox Link. Replace ?dl=0 with ?raw=1 (?dl=1 also seems to work)
 You can't use the Dropbox link of an alias file.
 #### Google Drive
-Image links from  'Get Shareable Link'. Set Anyone with the link can view. Replace 'open' with 'uc' before '?id'.
+Image links from  'Get Shareable Link'. Set Anyone with the link can view. Replace 'open' with 'uc' before '?id'. 
 
 ## Other Finds to customize:
 ### Color
